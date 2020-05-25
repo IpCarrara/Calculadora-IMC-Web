@@ -4,7 +4,7 @@ Site: https://imcweb.onrender.com/
 
 Desenvolvido com React
 
-Este Web App simula o aplicativo Android que desenvolvi utilizando o MIT App Inventor 2. A Calculadora IMC é um informativo voltado à saúde, onde o usuário pode medir o seu percentual de gordura corporal e saber se está saldável.
+Este Web App simula o aplicativo Android que desenvolvi utilizando o MIT App Inventor 2. A Calculadora IMC é um informativo voltado à saúde, onde o usuário pode medir o seu percentual de gordura corporal e saber se está saudável.
 
 _______________________________________________________________________________________________________________________________________
 
