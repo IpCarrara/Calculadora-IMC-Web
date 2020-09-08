@@ -27,7 +27,7 @@ class Calculator extends Component{
             if(imc < 16.9){
                 message="VOCÊ ESTÁ MUITO ABAIXO DO PESO";
             }
-            else if (imc >= 17 && imc <= 18.4){
+            else if (imc >= 17 && imc <= 18.5){
                 message = "VOCÊ ESTÁ ABAIXO DO PESO";
             }
             else if (imc >= 18.5 && imc <= 24.9){
